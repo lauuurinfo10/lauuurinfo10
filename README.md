@@ -1,24 +1,50 @@
+<div align="center">
 
-##  Hi! I'm Laur.
+# Hi, I'm Laur 👋
 
-A **second-year Computer Science student** at **Universitatea Transilvania Brașov** in Romania, passionate about technology and constantly exploring new things.
+### Third-year Computer Science student | Always learning, always improving
+
+I enjoy building solid programming foundations, exploring how software works,
+and becoming a better developer one step at a time.
+
+</div>
 
 ---
 
-## 🚀 My Current Focus & Growth
+## 👨‍💻 About me
 
-My journey is rooted in **foundational programming**, but I'm always looking to expand my horizons.
+- 🎓 Third-year Computer Science student at **Transilvania University of Brașov**, Romania
+- 🧠 Interested in software development, problem-solving, and continuous improvement
+- 🌱 Always working to strengthen my skills through learning and practice
+- 🚀 Open to challenges that help me grow as a developer
 
-* 💻 I currently have  knowledge in **C++** and i am actively working to expand my skills in **C#**, **Python**, and **Java**.
-* 🌱 I thrive on learning new concepts and believe in **continuous growth**. I'm always open to tackling challenges and acquiring new skills, day by day.
-* 💡 I aim to become a skilled professional in this field, focused on creating quality work while enjoying the process and every moment life offers.
+## 🛠️ Technologies & tools
 
+<div align="center">
 
-## 🌲 Outside of Code
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-I strongly believe in the power of **balance and movement** to recharge and focus.
+</div>
 
-* 🤸 Beside the screen, I'm usually **doing sport** and staying active—it's essential for both my physical and mental energy.
-* ⛰️ I love going on **walks and hikes**, enjoying nature, and admiring the creation around us.
+## 🎯 Current focus
 
+- Writing cleaner and more reliable code
+- Improving my problem-solving skills
+- Learning consistently and turning knowledge into practical work
 
+## 🌲 Beyond the screen
+
+Outside of technology, I enjoy exploring new places, playing sports, hiking, and taking care of my physical and mental well-being. I believe balance helps me stay curious, focused, and motivated.
+
+<div align="center">
+
+*Keep learning. Keep moving. Enjoy the journey.*
+
+</div>
